@@ -12,6 +12,7 @@ public class Fiplkart {
       WebDriver driver=new FirefoxDriver();
       String Url="https://www.Flipkart.com/";
       driver.get(Url);
+      System.out.println("hello java");
   }
   
 }
