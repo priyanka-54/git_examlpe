@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite thread count="1" verbose="3" name="Gmail Suite" annotations="JDk" parallel="tests">
+<test name="Amazon">
+<classes>
+<class name="NewTest"></class>
+</classes>
+</test>
+<test name="Google">
+<classes>
+<class name="Google">
+</class>
+</classes>
+</test>
+<test name="Fipkart">
+<classes>
+<class name="Fipkart"
+</classes>
+</test>
+</suite>
