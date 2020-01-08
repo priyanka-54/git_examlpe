@@ -12,6 +12,6 @@ public class NewTest {
       WebDriver driver=new FirefoxDriver();
       String Url="https://www.Amazon.com/";
       driver.get(Url);
-      System.out.println("today");
+      System.out.println("today!");
   }
 }
